@@ -142,9 +142,10 @@ Please subscribe,like and share my youtube
 print (banner)
 while True:
 	try:
-		a=input("𝙏𝙐𝙅𝙐𝘼𝙉 𝙃𝙄𝘿𝙐𝙋!  : ")
+	        a=input("PASSWORD!  : ")
+		a=input("MASUKIN NOMOR TARGET!  : ")
 		asu=a[0:2]
-		if a in(""," "):print("[!] 𝙅𝘼𝙉𝙂𝘼𝙉 𝙈𝘼𝙄𝙉 𝙈𝘼𝙄𝙉 𝘿𝙊𝙉𝙂 𝙎𝘼𝙔)")
+		if a in(""," "):print("[!] JANGAN MAIN-MAIN DONG BRO)")
 		elif "08" not in asu:print("[!] Gunakan Nomer Dengan Awalan 08xxx")
 		elif len(a)<=10:print("[!] NOMER BUTUH LEBIH DARI 9 ANGKA")
 		else:
