@@ -143,7 +143,7 @@ print (banner)
 while True:
 	try:
 	        a=input("PASSWORD!  : ")
-		a=input("MASUKIN NOMOR TARGET!  : ")
+		a=input("nomor target!  : ")
 		asu=a[0:2]
 		if a in(""," "):print("[!] JANGAN MAIN-MAIN DONG BRO)")
 		elif "08" not in asu:print("[!] Gunakan Nomer Dengan Awalan 08xxx")
