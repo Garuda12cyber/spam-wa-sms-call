@@ -91,41 +91,30 @@ __import__("os").system("clear")
 os.system("termux-open-url  https://youtube.com/channel/UC5qaTtGpIDZABVOSKwKcYtQ ")
 banner = """
 \033[1;35m  
-       `.                                               .`       
-      `h/                                               /h`      
-     /-h+`                                             `+h-/     
-   `.y:os/                 ``...``..                   /so:y.`   
-   .o+s:ys/`             .+so/shhsho`                `/sy:s+o.   
-  :-s++s/oy+-          .:/+ys+shhoso`               -+yo/s++s-:  
- `:s/so/ss+oso-         ``-+osshyshh/             -oso+ss/os/s:` 
- :/+s++so+ooo+/:o:`      ..``+o++++o+-        `:o:/+ooo+os++s+/: 
-`:oo+oso+ooo+:+oss::/.     .://+/+///-     ./::sso+:+ooo+oso+oo:`
-`y++ss++oooo:/sso//ooo+.  `:/:/:///+:/.  .+ooo//oss/:oooo++ss++y`
-`/syo++sooo+-oss+.+o++os` .+o+++++o+++: `so++o+.+sso-+ooos++oys/`
- /o+ossoooo+-oos/:++oyys+-.://:/://////-+syyo++:/soo-+oooosso+o/ 
- /+ssoooooo+.oo+--++sh://:::::::-mmmhyydmm/hs++--+oo.+ooooooss+/ 
- .osoo+oo+++-+oo/.+++y:/:.//--//-Mdo+/-/dM/y+++./oo+-+++oo+ooso. 
- .+oosoooooo+-+oo/-/+o-/-````.//-Ms/::-:+N:o+/-/oo+-+oooooosoo+. 
-  -+osssssooo+:+oo+::/-/:-  ..--.oo+y-sdNM:/::+oo+:+ooossssso+-  
-  `:ooooooss++/:/oso+/.///---   /   oysdNN-/+oso/:/++ssoooooo:`  
-   `/+oooooosoo++::ooo-sssss/`:+yo:`-/////-ooo::++oosoooooo+/`   
-    `./ooo++oos+++/-//:Mmyd+s `o/o` :+sso/-//-/+++soo++ooo/.`    
-       .:++o+++o+++//:.dy+s:m/``  `.ss+ss:`://+++o+++o++:.       
-         .::++++o+/++/::h+ssohs/`./so/ss/.:/++/+o++++::.         
-            .--//////::./sosyssd-+so+so:..:://////--.            
-               `  ````.:/:ossshM-/ooo/--/:.````  `               
-                     `:/-/--/ymN-::--.-/-/:`                     
-        .:`          -./-+.`--/::-/--`./-/.-          `:.        
-      ``.yd:        `.::.-` .--/:/--.  -.:/.`        :dy.``      
-      `ommMMs`:.    /o.`   ---:./-:--.    .o/    .:`sMMmmo`      
-        :mMdsdMNs..+s.`   `s---:-/---s`    .s+..sNMdsdMm:        
-         `s:sdys+syyo/:   +/o.+-:-+.o++   :/oyys+syds:s`         
-           .---:/+hyydhy+/s-s-++/++.s-s/ohdmyhy//:---.           
-               `-.ooyoooysdddddhhhhdhdNyhMs+s++`-`               
-                     -/+sssys+myy+sooyy+o/:.                     
-                      `sy-s-+/+s:s///.s-yo                       
-                      -/`/-.+ s- :s`+.-/`/-                      
-                             ``   .                   
+     :`                               `:     
+   .-s.                               .s-.   
+  .//s/`          `-::---            `/s//.  
+ .:oo+s+.       .:so:hhoo           .+s+oo:. 
+ -ooooooo+.`    `.-+shyyh:       `.+ooooooo- 
+`+ooooooo//s:..   `./////:`   ..:s//ooooooo+`
+-ooooo++/+so:o+/. `+////+/- ./+o:os+/++ooooo-
+.ooooooo:oo:+ooso.-++++/++:.osoo+:oo:ooooooo.
+`+oooooo:oo-//y+/::::::hysoydoy//-oo:oooooo+`
+ /sooo++:+s/:+o//.---//N+/-/m+o+:/s+:++ooos/ 
+ .osoooso//s+//:/- `.-:s++/hN///+s//osoooso. 
+  :oooooo+//oo+-///:`./. oshd/+oo//+oooooo:  
+  `-/+ooooo+//+/myys`/o/`:++/-+//+ooooo+/-`  
+    `.//++o++//-h+os+- `:sos/-//++o++//.`    
+      `.-:/+++/::ossys:/s+s/.:/+++/:-.`      
+          `````-/:+syN/++/:-/-`````          
+      `       `-:/--+o:-:../:-`       `      
+    `.ss.     .-:.`.-:/:-. .--.     .ss.`    
+    `+NMhos-`-o.  `:-:::-:`  `o-`-sohMN+`    
+      -s+hyooy+-` +/:-/-:/+ `:+yooyh+s-      
+        ...:syyhysyyooo++yhsdhsy+:...        
+             .:/++ssyNyyyyy+o/-`             
+               .s:+/-s.o-:+:s.               
+               ` ` .`. .`. ` `                          
 ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈»
 \033[1;32m[!]𝗔𝗨𝗧𝗛𝗢𝗥 : Garuda12cyber
 [!]𝗬𝗢𝗨𝗧𝗨𝗕𝗘: Garuda12cyber
